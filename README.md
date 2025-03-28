@@ -60,7 +60,7 @@ http://127.0.0.1:8000/bins
 
 ### Halaman Pencarian dan Hasil:
 ![Preview Smart Waste Bin](public/web.png)
-![Preview Search Smart Waste Bin](public/web2.png)
+![Preview Search Smart Waste Bin](public/web2.jpeg)
 
 ## 🙋‍♀️ Author
 
