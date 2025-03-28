@@ -27,7 +27,7 @@ Proyek ini adalah implementasi tugas mata kuliah dengan topik **Integrasi Public
 
 ## 🛠️ Teknologi yang Digunakan
 
-- Laravel 10
+- Laravel 
 - Laravel HTTP Client
 - Blade Template Engine
 - MockAPI.io (untuk simulasi data IoT)
@@ -37,7 +37,7 @@ Proyek ini adalah implementasi tugas mata kuliah dengan topik **Integrasi Public
 
 1. Clone repo:
 ```bash
-git clone https://github.com/[username]/monolithSmartWasteBin.git
+https://github.com/memorism/monolithSmartWasteBin.git
 cd monolithSmartWasteBin
 ```
 
@@ -59,7 +59,7 @@ http://127.0.0.1:8000/bins
 ## 📸 Screenshot
 
 ### Halaman Pencarian dan Hasil:
-
+![Preview Smart Waste Bin](public/web.png)
 
 ## 🙋‍♀️ Author
 
