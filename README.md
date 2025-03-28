@@ -64,5 +64,4 @@ http://127.0.0.1:8000/bins
 
 ## 🙋‍♀️ Author
 
-- Nama: Reza
-- NIM: 1202213199
+- Nama: Reza Abdillah
