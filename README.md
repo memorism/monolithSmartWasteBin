@@ -1,6 +1,6 @@
 # Smart Waste Bin Monitoring (Monolith Laravel + Public API)
 
-Proyek ini adalah implementasi tugas mata kuliah dengan topik **Integrasi Public API pada Aplikasi Monolith Sederhana**. Aplikasi ini menampilkan data simulasi dari tempat sampah pintar (smart waste bin) menggunakan **Laravel** sebagai backend dan **MockAPI.io** sebagai sumber data.
+Ini adalah implementasi tugas mata kuliah dengan topik **Integrasi Public API pada Aplikasi Monolith Sederhana**. Aplikasi ini menampilkan data simulasi dari tempat sampah pintar (smart waste bin) menggunakan **Laravel** sebagai backend dan **MockAPI.io** sebagai sumber data.
 
 ## 📌 Fitur Utama
 
