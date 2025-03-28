@@ -59,7 +59,7 @@ http://127.0.0.1:8000/bins
 ## 📸 Screenshot
 
 ### Halaman Pencarian dan Hasil:
-
+![Preview Smart Waste Bin](public/web.png)
 
 ## 🙋‍♀️ Author
 
